@@ -21,6 +21,10 @@ configure
 debian/files
 debian/*.log
 debian/*.substvars
+debian/.debhelper/
+debian/changelog.*
+debian/vyatta-conntrack/
+src/vyatta-conntrack-logging
 INSTALL
 Makefile.in
 Makefile
